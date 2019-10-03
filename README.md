@@ -1,5 +1,6 @@
 # SAP Inspector.linq
-> This is a LINQPad script that allow you to inspect the current SAP window.
+> This is a LINQPad script that allow you to inspect the current SAP window.  
+> In case you don't know, [LINQPad](https://www.linqpad.net/) is an awesome script-pad for C#/F# and SQL. Like a super light-weight version of VisualStudio.
 
 Note: 
 [`SAP.GUI.Scripting.net`](https://www.nuget.org/packages/SAP.GUI.Scripting.net/)  is created to be referenced by LINQPad, as it doesn't support type and COM library. And, it targets specifically `730 Final Release version` of SAP. If you do need a different version of them you can convert them using the Type Library Importer (Tlbimp.exe) shipped with visual studio. For more information, check out these links:
