@@ -30,7 +30,7 @@ Note:
     > They will be converted into a single string and displayed in monospace for inspection or copying (without losing padding).
 
 # Xy.Sap
-> This namespace contains a set of helper and extension method to interact the SAP system.
+> This namespace contains a set of helper and extension method to interact with the SAP system.
 
 Retrieving employee identity:
 ```csharp
